@@ -17,3 +17,41 @@ HARMONIE Project
 
 
 Data:
+Folder of roughly 3752 images with Infrared Information Embedded in them.
+
+Contact karthikc.1729@gmail.com for full files (~4gb, 3752 files)
+kchell@mx:~/Downloads/Kinect Big Folder of Images
+$ tree -L 3
+.
+├── pos1.bmp
+├── pos2.bmp
+├── pos3.bmp
+├── spread_apart.bmp
+└── temp
+    ├── bright
+    │   ├── blank
+    │   ├── close together1
+    │   ├── close together2
+    │   ├── close together3
+    │   └── spread apart
+    ├── dark
+    │   ├── blank
+    │   ├── close together1
+    │   ├── close together2
+    │   ├── close together3
+    │   └── spread apart
+    ├── dim
+    │   ├── blank
+    │   ├── close together1
+    │   ├── close together2
+    │   ├── close together3
+    │   └── spread apart
+    └── normal
+        ├── blank
+        ├── close together1
+        ├── close together2
+        ├── close together3
+        └── spread apart
+
+26 directories, 4 files
+
