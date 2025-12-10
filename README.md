@@ -21,8 +21,8 @@ Data:
 Folder of roughly 82 directories, 3962 files images with Infrared Information Embedded in them.
 ''
 
-Contact karthikc.1729@gmail.com for full files (~4gb, 82 directories, 3962 files)
-kchell@mx:~/Downloads/Kinect Big Folder of Images
+Contact karthikc.1729@gmail.com for full files (4gb, 82 directories, 3962 files)
+kchell@mx:/Downloads/Kinect Big Folder of Images
 $ tree -L 3
 .
 ├── pos1.bmp
