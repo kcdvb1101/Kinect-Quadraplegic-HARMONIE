@@ -1,3 +1,4 @@
+![Tree](tree.png)
 # Kinect-Quadraplegic-HARMONIE
 HARMONIE: Hybrid Augmented Reality Multimodal Operation Neural Integration Environment - Integrates Kinect v2 for real-time object detection via image processing and linear classifiers, enhancing BCI-driven control of dexterous robotic prosthetics like the Modular Prosthetic Limb (MPL) for users with motor impairments.
 
@@ -17,10 +18,10 @@ HARMONIE Project
 
 
 Data:
-Folder of roughly 3752 images with Infrared Information Embedded in them.
+Folder of roughly 82 directories, 3962 files images with Infrared Information Embedded in them.
 ''
 
-Contact karthikc.1729@gmail.com for full files (~4gb, 3752 files)
+Contact karthikc.1729@gmail.com for full files (~4gb, 82 directories, 3962 files)
 kchell@mx:~/Downloads/Kinect Big Folder of Images
 $ tree -L 3
 .
