@@ -18,6 +18,7 @@ HARMONIE Project
 
 Data:
 Folder of roughly 3752 images with Infrared Information Embedded in them.
+''
 
 Contact karthikc.1729@gmail.com for full files (~4gb, 3752 files)
 kchell@mx:~/Downloads/Kinect Big Folder of Images
